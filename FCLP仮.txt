@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【公式】眉毛サロンFC加盟オーナー募集｜株式会社SWOOSH</title>
+    <meta name="description" content="投資回収スピード特化型。未経験から始める「眉毛サロン」FCオーナー募集。株式会社SWOOSH運営。">
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #f8fafc;
+            color: #333;
+            line-height: 1.6;
+        }
+        .hero-gradient {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+        }
+        .text-gold {
+            color: #fbbf24;
+        }
+        .bg-gold {
+            background-color: #fbbf24;
+        }
+        .accent-gradient {
+            background: linear-gradient(90deg, #d97706 0%, #fbbf24 100%);
+        }
+        .check-list li {
+            position: relative;
+            padding-left: 1.5em;
+            margin-bottom: 0.5em;
+        }
+        .check-list li::before {
+            content: '\f00c';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            position: absolute;
+            left: 0;
+            color: #10b981;
+        }
+        .triangle-down {
+            width: 0;
+            height: 0;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+            border-top: 20px solid #fbbf24;
+            margin: 0 auto;
+        }
+        /* Mobile optimization tweaks */
+        @media (max-width: 640px) {
+            .container {
+                padding-left: 1.25rem;
+                padding-right: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body class="pb-24">
+
+    <!-- Header -->
+    <header class="bg-white shadow-md py-3 sticky top-0 z-50">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-xs font-bold text-slate-800 leading-tight">
+                投資回収スピード特化型<br>眉毛サロンFC募集
+            </h1>
+            <a href="#cta" class="bg-slate-900 text-white text-xs px-3 py-2 rounded font-bold hover:bg-slate-700 transition">
+                説明会申し込み
+            </a>
+        </div>
+    </header>
+
+    <!-- Hero (Retained for Visual Impact) -->
+    <section class="hero-gradient text-white pt-10 pb-12 relative overflow-hidden">
+        <div class="container mx-auto text-center relative z-10">
+            <p class="text-gold font-bold text-xs md:text-sm mb-3 tracking-widest bg-slate-800 inline-block px-3 py-1 rounded-full border border-yellow-500">
+                先行者利益を獲得するラストチャンス
+            </p>
+            <h2 class="text-3xl md:text-4xl font-black mb-6 leading-snug">
+                美容未経験オーナーが<br>
+                <span class="text-yellow-400 text-4xl md:text-5xl">投資回収10ヶ月</span>を<br>
+                実現する最強の<br>
+                ストックビジネス
+            </h2>
+            <a href="#cta" class="block w-full max-w-md mx-auto accent-gradient text-white text-lg font-bold py-4 rounded-full shadow-lg shadow-yellow-500/30 animate-pulse transition hover:scale-105">
+                まずは事業計画書を見る <i class="fa-solid fa-chevron-right ml-2"></i>
+            </a>
+        </div>
+        <!-- Decoration -->
+        <div class="absolute top-0 right-0 w-32 h-32 bg-yellow-500 rounded-full mix-blend-overlay filter blur-3xl opacity-20"></div>
+        <div class="absolute bottom-0 left-0 w-40 h-40 bg-blue-500 rounded-full mix-blend-overlay filter blur-3xl opacity-20"></div>
+    </section>
+
+    <!-- 1. Anxiety (Problem Agitation) -->
+    <section class="py-12 bg-gray-50">
+        <div class="container mx-auto max-w-2xl">
+            <div class="bg-white p-8 rounded-xl shadow-sm border-l-4 border-slate-800">
+                <h3 class="text-xl font-bold text-slate-800 mb-6 text-center">
+                    こんな<span class="text-red-600 underline decoration-4 decoration-yellow-300">「不安」</span>で<br>
+                    止まっていませんか？
+                </h3>
+                <ul class="space-y-4 font-medium text-slate-700 text-lg">
+                    <li class="flex items-start">
+                        <i class="fa-solid fa-circle-xmark text-slate-400 mt-1.5 mr-3"></i>
+                        <span>流行り廃りが激しく、すぐ廃業しそう</span>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fa-solid fa-circle-xmark text-slate-400 mt-1.5 mr-3"></i>
+                        <span>美容技術がない自分に運営ができるのか</span>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fa-solid fa-circle-xmark text-slate-400 mt-1.5 mr-3"></i>
+                        <span>求人や集客で結局苦労しそう</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="triangle-down"></div>
+        </div>
+    </section>
+
+    <!-- 2. Strategy (Differentiation) - Updated Layout -->
+    <section class="py-14 bg-slate-900 text-white">
+        <div class="container mx-auto max-w-3xl">
+            <p class="text-center text-yellow-400 font-bold text-sm tracking-widest mb-2 uppercase">Winning Strategy</p>
+            <h3 class="text-center text-2xl md:text-3xl font-bold mb-10">
+                だからこそ、<br>
+                <span class="border-b-4 border-yellow-500">「仕組み」で勝つ</span><br>
+                必要があります。
+            </h3>
+
+            <div class="space-y-6 mb-10">
+                <!-- Card 1 -->
+                <div class="bg-slate-800 p-5 rounded-xl border border-slate-700 flex items-center shadow-lg">
+                    <div class="bg-slate-900 text-yellow-400 text-4xl w-20 h-20 flex-shrink-0 flex items-center justify-center rounded-lg mr-5">
+                        <i class="fa-solid fa-users-viewfinder"></i>
+                    </div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-1">集客力</h4>
+                        <p class="text-slate-300 text-sm leading-relaxed">本部一括の集客・SNS運用で、オーナー様の負担をゼロに。</p>
+                    </div>
+                </div>
+                <!-- Card 2 -->
+                <div class="bg-slate-800 p-5 rounded-xl border border-slate-700 flex items-center shadow-lg">
+                    <div class="bg-slate-900 text-yellow-400 text-4xl w-20 h-20 flex-shrink-0 flex items-center justify-center rounded-lg mr-5">
+                        <i class="fa-solid fa-hand-sparkles"></i>
+                    </div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-1">技術力</h4>
+                        <p class="text-slate-300 text-sm leading-relaxed">14日間のプロ育成研修により、未経験採用でも即戦力化。</p>
+                    </div>
+                </div>
+                <!-- Card 3 -->
+                <div class="bg-slate-800 p-5 rounded-xl border border-slate-700 flex items-center shadow-lg">
+                    <div class="bg-slate-900 text-yellow-400 text-4xl w-20 h-20 flex-shrink-0 flex items-center justify-center rounded-lg mr-5">
+                        <i class="fa-solid fa-store"></i>
+                    </div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-1">低リスク</h4>
+                        <p class="text-slate-300 text-sm leading-relaxed">10坪・小規模出店モデルで初期投資を極小化。</p>
+                    </div>
+                </div>
+                <!-- Card 4 -->
+                <div class="bg-slate-800 p-5 rounded-xl border border-slate-700 flex items-center shadow-lg">
+                    <div class="bg-slate-900 text-yellow-400 text-4xl w-20 h-20 flex-shrink-0 flex items-center justify-center rounded-lg mr-5">
+                        <i class="fa-solid fa-file-invoice-dollar"></i>
+                    </div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-1">透明な運営体制</h4>
+                        <p class="text-slate-300 text-sm leading-relaxed">指定備品の押し売り一切なし。健全なFC運営を約束します。</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-yellow-600/20 border border-yellow-500/50 rounded-xl p-6 text-center">
+                <p class="text-yellow-100 text-lg font-bold">
+                    低家賃・少人数運営のため、損益分岐点が極めて低く、赤字リスクを最小限に抑えます。
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Market Background -->
+    <section class="py-14 bg-white">
+        <div class="container mx-auto max-w-3xl">
+            <h3 class="text-center text-2xl font-bold text-slate-900 mb-3 leading-tight">
+                「髪」の次は「眉」。<br>
+                1,000億円市場へ<br>
+                急成長する理由。
+            </h3>
+            <div class="w-20 h-1 bg-yellow-400 mx-auto mb-10 rounded"></div>
+
+            <div class="space-y-10">
+                <div class="flex flex-col gap-4">
+                    <div class="w-full">
+                        <div class="bg-slate-100 h-40 rounded-xl flex items-center justify-center text-slate-300 text-6xl">
+                            <i class="fa-solid fa-arrow-trend-up"></i>
+                        </div>
+                    </div>
+                    <div class="w-full">
+                        <h4 class="font-bold text-2xl text-slate-800 mb-2">メンズ美容市場の爆発</h4>
+                        <p class="text-slate-600 text-lg leading-relaxed">
+                            身だしなみとして眉を整える男性が<span class="font-bold bg-yellow-100 px-1">前年比200%増</span>。未開拓の巨大市場が目前です。
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex flex-col gap-4">
+                    <div class="w-full">
+                        <div class="bg-slate-100 h-40 rounded-xl flex items-center justify-center text-slate-300 text-6xl">
+                            <i class="fa-solid fa-rotate-right"></i>
+                        </div>
+                    </div>
+                    <div class="w-full">
+                        <h4 class="font-bold text-2xl text-slate-800 mb-2">圧倒的なリピート率</h4>
+                        <p class="text-slate-600 text-lg leading-relaxed">
+                            眉は3〜4週間で形が崩れます。一度獲得した顧客は、年間10回来店する<span class="font-bold bg-yellow-100 px-1">「ストック型収益」</span>へ。
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex flex-col gap-4">
+                    <div class="w-full">
+                        <div class="bg-slate-100 h-40 rounded-xl flex items-center justify-center text-slate-300 text-6xl">
+                            <i class="fa-solid fa-flag"></i>
+                        </div>
+                    </div>
+                    <div class="w-full">
+                        <h4 class="font-bold text-2xl text-slate-800 mb-2">ブルーオーシャン</h4>
+                        <p class="text-slate-600 text-lg leading-relaxed">
+                            需要に対し供給が圧倒的に不足。今参入することで<span class="font-bold bg-yellow-100 px-1">「地域一番店」</span>の先行者利益を確定できます。
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. Revenue Model (Cases) -->
+    <section class="py-14 bg-slate-50">
+        <div class="container mx-auto max-w-4xl">
+            <h3 class="text-center text-2xl font-bold text-slate-900 mb-8">
+                確かな「実績」に基づく<br>収益モデル
+            </h3>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Case 1 -->
+                <div class="bg-white rounded-2xl shadow-xl overflow-hidden border-t-8 border-slate-800">
+                    <div class="bg-slate-100 p-4 text-center font-black text-slate-700 text-lg tracking-wider">池袋店 実績</div>
+                    <div class="p-8 text-center">
+                        <div class="mb-6">
+                            <p class="text-sm text-slate-500 font-bold mb-1">利益率</p>
+                            <p class="text-5xl font-black text-slate-800">43<span class="text-2xl">%</span></p>
+                        </div>
+                        <div class="mb-6 border-b border-dashed border-slate-200 pb-6">
+                            <p class="text-sm text-slate-500 font-bold mb-1">月間売上</p>
+                            <p class="text-3xl font-black text-slate-700">270<span class="text-xl">万円</span></p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-bold text-slate-500 mb-2 uppercase tracking-widest">営業利益</p>
+                            <p class="text-5xl font-black text-red-600 leading-none">107<span class="text-2xl text-red-600 font-bold">万円</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case 2 -->
+                <div class="bg-white rounded-2xl shadow-xl overflow-hidden border-t-8 border-yellow-500">
+                    <div class="bg-yellow-50 p-4 text-center font-black text-slate-700 text-lg tracking-wider">表参道店 実績</div>
+                    <div class="p-8 text-center">
+                        <div class="mb-6">
+                            <p class="text-sm text-slate-500 font-bold mb-1">利益率</p>
+                            <p class="text-5xl font-black text-slate-800">40<span class="text-2xl">%</span></p>
+                        </div>
+                        <div class="mb-6 border-b border-dashed border-slate-200 pb-6">
+                            <p class="text-sm text-slate-500 font-bold mb-1">月間売上</p>
+                            <p class="text-3xl font-black text-slate-700">240<span class="text-xl">万円</span></p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-bold text-slate-500 mb-2 uppercase tracking-widest">営業利益</p>
+                            <p class="text-5xl font-black text-red-600 leading-none">96<span class="text-2xl text-red-600 font-bold">万円</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. Testimonial -->
+    <section class="py-14 bg-white">
+        <div class="container mx-auto max-w-2xl">
+            <h3 class="text-center text-2xl font-bold text-slate-800 mb-8">オーナー様の声</h3>
+            <div class="relative bg-white border-2 border-slate-100 p-8 rounded-2xl shadow-lg">
+                <div class="absolute -top-4 left-1/2 transform -translate-x-1/2 bg-slate-800 text-white px-6 py-1.5 rounded-full text-sm font-black tracking-widest">
+                    直営オーナー 談
+                </div>
+                <div class="text-center">
+                    <div class="text-yellow-400 text-3xl mb-4"><i class="fa-solid fa-quote-left"></i></div>
+                    <p class="text-slate-800 text-xl font-bold leading-relaxed mb-4">
+                        「美容未経験でしたが、本部の集客代行のおかげで初月から予約で埋まり、現在は9店舗を運営するまでに拡大できました。」
+                    </p>
+                    <div class="text-yellow-400 text-3xl"><i class="fa-solid fa-quote-right"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 6. FAQ -->
+    <section class="py-14 bg-slate-50">
+        <div class="container mx-auto max-w-2xl">
+            <h3 class="text-center text-2xl font-bold text-slate-800 mb-8">FAQ</h3>
+            <div class="space-y-5">
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <p class="font-bold text-slate-900 text-lg mb-3 flex items-start">
+                        <span class="bg-yellow-400 text-slate-900 w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 mr-3 text-sm">Q</span>
+                        本当に美容未経験でも大丈夫ですか？
+                    </p>
+                    <div class="flex items-start">
+                        <span class="bg-slate-800 text-white w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 mr-3 text-sm">A</span>
+                        <p class="text-slate-600 leading-relaxed pt-1">
+                            はい。加盟オーナー様の9割が異業種参入です。教育は本部にお任せください。
+                        </p>
+                    </div>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <p class="font-bold text-slate-900 text-lg mb-3 flex items-start">
+                        <span class="bg-yellow-400 text-slate-900 w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 mr-3 text-sm">Q</span>
+                        無理な勧誘はありますか？
+                    </p>
+                    <div class="flex items-start">
+                        <span class="bg-slate-800 text-white w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 mr-3 text-sm">A</span>
+                        <p class="text-slate-600 leading-relaxed pt-1">
+                            一切ございません。まずは情報収集としてお気軽にご参加ください。
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 7. CTA (Call to Action) -->
+    <section id="cta" class="py-16 bg-slate-800 text-white relative">
+        <div class="container mx-auto px-4 text-center max-w-lg">
+            <h2 class="text-3xl font-bold mb-4 leading-tight">
+                「もっと早く知っておけば」<br>
+                となる前に。
+            </h2>
+            <p class="text-slate-300 mb-8 text-lg font-medium">
+                エリア内での出店数には制限を設けております。<br>まずは空き状況の確認から。
+            </p>
+
+            <div class="bg-white p-8 rounded-2xl text-slate-900 shadow-2xl border-t-8 border-yellow-500">
+                <p class="text-center text-yellow-600 font-bold text-sm tracking-widest mb-2 uppercase">Next Step</p>
+                <h3 class="text-2xl font-black text-center mb-6 border-b pb-4 leading-tight">
+                    オンライン個別説明会<br><span class="text-slate-400 text-lg font-bold">（参加無料）</span>
+                </h3>
+                
+                <ul class="text-left bg-slate-50 p-5 rounded-xl mb-8 space-y-3 text-lg font-bold border border-slate-200">
+                    <li class="flex items-center text-slate-700">
+                        <i class="fa-solid fa-check-circle text-green-500 mr-3 text-xl"></i> あなたのエリアの出店可否を確認
+                    </li>
+                    <li class="flex items-center text-slate-700">
+                        <i class="fa-solid fa-check-circle text-green-500 mr-3 text-xl"></i> 詳細な投資シミュレーション提示
+                    </li>
+                </ul>
+
+                <button type="button" onclick="alert('デモ：申し込みフォームへ遷移')" class="w-full accent-gradient text-white font-black text-2xl py-6 rounded-xl shadow-xl hover:opacity-90 transition transform hover:scale-[1.02] mb-4 leading-snug">
+                    売り込み一切なし<br>
+                    <span class="text-base font-bold opacity-90">無料説明会で勝算を確かめる</span> <i class="fa-solid fa-arrow-right ml-1"></i>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- 8. Company Profile -->
+    <section class="py-12 bg-slate-900 text-slate-400 border-t border-slate-800">
+        <div class="container mx-auto max-w-2xl text-sm">
+            <h4 class="font-bold text-slate-300 mb-8 text-center text-lg tracking-widest border-b border-slate-800 pb-4">会社概要</h4>
+            <div class="space-y-6 md:space-y-0 md:grid md:grid-cols-[1fr,2fr] gap-4 mb-8">
+                <div class="font-bold text-slate-300 bg-slate-800 px-3 py-1 rounded w-fit md:w-full">会社名</div>
+                <div class="pl-2">株式会社SWOOSH</div>
+                
+                <div class="font-bold text-slate-300 bg-slate-800 px-3 py-1 rounded w-fit md:w-full">代表者</div>
+                <div class="pl-2">生方 仁志</div>
+                
+                <div class="font-bold text-slate-300 bg-slate-800 px-3 py-1 rounded w-fit md:w-full">所在地</div>
+                <div class="pl-2">〒164-0014<br>東京都中野区南台2-40-13 第2コーポ寺前102</div>
+                
+                <div class="font-bold text-slate-300 bg-slate-800 px-3 py-1 rounded w-fit md:w-full">設立</div>
+                <div class="pl-2">2022年3月</div>
+                
+                <div class="font-bold text-slate-300 bg-slate-800 px-3 py-1 rounded w-fit md:w-full">事業内容</div>
+                <div class="pl-2">眉毛サロン運営(直営・FC)、採用支援、マーケティング支援</div>
+            </div>
+            <p class="text-center text-xs mt-10">&copy; 2024 SWOOSH Inc. All Rights Reserved.</p>
+        </div>
+    </section>
+
+    <!-- Sticky Floating Button for Mobile -->
+    <div class="fixed bottom-0 w-full bg-white/95 backdrop-blur border-t border-slate-200 p-4 z-50 shadow-[0_-5px_20px_rgba(0,0,0,0.15)] md:hidden">
+        <a href="#cta" class="block w-full accent-gradient text-white text-center font-black py-4 rounded-xl shadow-lg text-xl animate-pulse">
+            無料説明会で勝算を確かめる
+        </a>
+    </div>
+
+</body>
+</html>
